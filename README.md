@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Early%20Stage-orange?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 [![Purpose](https://img.shields.io/badge/Purpose-Security%20Research-red?style=for-the-badge)]()
 
 </div>
@@ -150,12 +149,6 @@ Type `exit` to close the session cleanly.
 - 🌐 [Real Python – Socket Programming](https://realpython.com/python-sockets/)
 - 🧪 [HackTricks – Shells](https://book.hacktricks.xyz/)
 - 🎯 MITRE ATT&CK: [T1059 – Command and Scripting Interpreter](https://attack.mitre.org/techniques/T1059/)
-
----
-
-## 📜 License
-
-**MIT** — but please read the disclaimer above. With great power comes great responsibility.
 
 ---
 
