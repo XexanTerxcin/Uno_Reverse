@@ -7,7 +7,7 @@ SERVER_PORT = 5003
 
 BUFFER_SIZE = 1024
 
-# create a socket object
+# create a socket object #safi-testing
 s = socket.socket()
 
 # bind the socket to all IP addresses of this host

